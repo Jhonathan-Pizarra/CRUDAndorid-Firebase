@@ -16,7 +16,8 @@ Luego ya no hacemos los botones tradicionales, ahora se presentan unos persoaliz
 después, implementamos el Splash Screen e Icono, que igual, andorid instala algunas dependencias para dar soporte, por lo que puede que el ícono en el SplashScreen no se presente muy bien, o se presente pizelado
 
 *Programación*
-Para la programación se utiliza el paradigma orientado a objetos, es decir que existe herencia, abstracción, encapsulamiento, y herencia que por medio de objetos y clases nos permitieron realiar el crud
+Para la programación se utiliza el paradigma orientado a objetos, es decir que existe herencia, abstracción, encapsulamiento, y herencia que por medio de objetos y clases nos permitieron realiar el crud.
+La aplicación también maneja persistencia, es decir, que los datos que manejemos con la base esté siempre que haya conexión, si se usa la app sin tener conexion a internet no va a servir de nada, aunque en pricnipio pueda aparecer como registrado, cuando haya conexión a internet la lista se actualizará, de ese modo los datos persisten sin opción a ser corrompidos.
 además Andorid permite trabajar con Firebase, además de otras bases de datos, e igual para poder acceder a sus métodos necesitabamos importarlos y crear un par de objetos!
 
 *Complicaciones*
