@@ -1,9 +1,9 @@
-# PruebaB1 
+# CRUD Android+Firebase
 
 **Nombre:** Jhonathan Pizarra\
 **Asignatura:** Tópicos Especiales\
 **Facultad:** ESFOT\
-**Descripción:**\
+**Descripción**
 
 Aplicación en Android con un CRUD sobre firebase implementado.
 Consiste en una lista de usuarios sobre los cuales se puede editar, borrar agregar o consultar en sus campos.
